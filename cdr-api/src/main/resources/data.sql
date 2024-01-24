@@ -1,0 +1,1 @@
+INSERT INTO cdrecord (sessionid, vehicleid, starttime, endtime, totalcost) VALUES (hibernate_sequence.nextval,'233',sysdate,sysdate,23.33);
